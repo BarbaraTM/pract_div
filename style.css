@@ -11,3 +11,12 @@ nav.menu {
 div.a {
     background-color: orange;
 }
+
+div.fondo {
+    background-color: blue;
+    text-align: center;
+}
+
+span.sueño {
+    background-color: yellow;
+}
