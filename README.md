@@ -1,1 +1,1 @@
-# practica-3.6
+# pract_div
